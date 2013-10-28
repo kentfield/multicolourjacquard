@@ -1,0 +1,7 @@
+C:\Users\kevin\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\kevin\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\Kevin's Knitting Pattern Generator.csproj.GenerateResource.Cache
+C:\Users\kevin\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Knitulator.exe
+C:\Users\kevin\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Knitulator.pdb
+C:\Users\kevin\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\Knitulator.Properties.Resources.resources
+C:\Users\kevin\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\Knitulator.exe
+C:\Users\kevin\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\Knitulator.pdb

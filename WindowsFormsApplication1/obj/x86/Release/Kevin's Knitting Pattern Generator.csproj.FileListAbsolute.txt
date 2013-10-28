@@ -1,0 +1,8 @@
+C:\Users\kevin\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\Knitulator.exe
+C:\Users\kevin\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\Knitulator.pdb
+C:\Users\kevin\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\WindowsFormsApplication1.Form1.resources
+C:\Users\kevin\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\Knitulator.Properties.Resources.resources
+C:\Users\kevin\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\Kevin's Knitting Pattern Generator.csproj.GenerateResource.Cache
+C:\Users\kevin\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\Knitulator.exe
+C:\Users\kevin\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\Knitulator.pdb
+C:\Users\kevin\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Release\Kevin's Knitting Pattern Generator.csprojResolveAssemblyReference.cache
